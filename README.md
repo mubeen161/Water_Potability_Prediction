@@ -1,4 +1,4 @@
-# Water_Potability_Prediction
+# Water Potability Prediction
 
 The Water Potability Dataset is a collection of data that focuses on
 the quality and potability of water samples. This dataset aims to
